@@ -1,0 +1,24 @@
+
+Servos:
+
+leftAileron - D3
+rightAileron - D5
+rudderServo - D6
+elevatorServo - D9
+thrustProp - D10
+
+NRF24L01
+MOSI - D11
+MISO - D12
+SCK - D13
+CE - D7
+CSN - D8
+
+BNO055
+
+SDA - A5
+SCL - A4
+
+NEO6M
+RX - D1
+TX - D0
